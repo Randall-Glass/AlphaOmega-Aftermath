@@ -1,6 +1,6 @@
-id="plugin.program.alphaomegawiz"  <<Matching Folder and Addon.xml
-version="0.1.0"
-zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
+id="plugin.program.alphaomegawiz-1.0.zip"
+version="1.0"
+zip="https://github.com/Randall-Glass/AlphaOmega-Aftermath/raw/master/plugin.program.alphaomegawiz-1.0.zip"
 
 name="Alpha-Omega"               
 version="1.0"             
