@@ -12,5 +12,5 @@ icon="https://github.com/Randall-Glass/alphaomega/raw/master/icon.png"
 fanart="https://github.com/Randall-Glass/alphaomega/raw/master/fanart.jpg"
 preview="http://"
 adult="No"
-description="Alpha Omega Wizard installs Christian Kodi Alpha Omega builConnects to youtube christain videos, christain radio IPTV list, and audio bible."
+description="Alpha Omega Wizard installs Christian Kodi Alpha Omega build. Connects to youtube christain videos, christain radio IPTV list, and audio bible."
 
