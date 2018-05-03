@@ -1,0 +1,16 @@
+id="plugin.program.alphaomegawiz"  <<Matching Folder and Addon.xml
+version="0.1.0"
+zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
+
+name="Alpha-Omega"               
+version="1.0"             
+url="https://github.com/Randall-Glass/alphaomega/raw/master/alphaomegabuild.zip"                
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="https://github.com/Randall-Glass/alphaomega/raw/master/icon.png"
+fanart="https://github.com/Randall-Glass/alphaomega/raw/master/fanart.jpg"
+preview="http://"
+adult="No"
+description="Alpha Omega Wizard installs Christian Kodi Alpha Omega builConnects to youtube christain videos, christain radio IPTV list, and audio bible."
+
