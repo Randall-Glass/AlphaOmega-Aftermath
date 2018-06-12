@@ -1,7 +1,6 @@
 id="plugin.program.alphaomegawiz"
 version="1.0"
-zip="https://github.com/Randall-Glass/AlphaOmega-Aftermath/raw/master/plugin.program.alphaomegawiz-1.0.zip"
-
+zip="https://github.com/Randall-Glass/AlphaOmega-Aftermath/blob/master/plugin.program.alphaomegawiz/plugin.program.alphaomegawiz-1.0.zip"
 name="Alpha-Omega"               
 version="1.0"             
 url="https://github.com/Randall-Glass/AlphaOmega-Aftermath/raw/master/alphaomegabuild.zip"                
